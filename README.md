@@ -48,8 +48,6 @@ Gufit is built using a modern, scalable full-stack JavaScript architecture.
 
 ## 📸 Screenshots & UI Showcase
 
-*(Replace the placeholder images below with your actual screenshots by placing them in the `screenshots` folder)*
-
 ### Mobile App (Trainee View)
 <p align="center">
   <img src="screenshots/app_1.jpg" alt="Mobile App 1" width="220" />
