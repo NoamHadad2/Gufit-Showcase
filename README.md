@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150?text=Gufit+Logo" alt="Gufit Logo" width="120" height="120" />
+  <img src="assets/logo.jpg" alt="Gufit Logo" width="150" />
   
   <h1>Gufit - Full-Stack Fitness Management Platform</h1>
   
